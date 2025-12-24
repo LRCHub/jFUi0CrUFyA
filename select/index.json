@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "メリーゴーランド",
+  "base_artist": "Yuuri",
+  "createdAt": "2025-12-24T12:09:43.110132Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "メリーゴーランド",
+      "artist": "KANA-BOON",
+      "has_synced": true,
+      "path": "select/01_メリーゴーランド_KANA-BOON.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "メリーゴーランド",
+      "artist": "優里",
+      "has_synced": true,
+      "path": "select/02_メリーゴーランド_優里.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "メリーゴーランド",
+      "artist": "優里",
+      "has_synced": true,
+      "path": "select/03_メリーゴーランド_優里.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "メリーゴーランド",
+      "artist": "雨宮天",
+      "has_synced": true,
+      "path": "select/04_メリーゴーランド_雨宮天.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "メリーゴーランド",
+      "artist": "MY FIRST STORY",
+      "has_synced": true,
+      "path": "select/05_メリーゴーランド_MY_FIRST_STORY.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "メリーゴーランド",
+      "artist": "THE BLUE HEARTS",
+      "has_synced": true,
+      "path": "select/06_メリーゴーランド_THE_BLUE_HEARTS.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "メリーゴーランド",
+      "artist": "植田真梨恵",
+      "has_synced": false,
+      "path": "select/07_メリーゴーランド_植田真梨恵.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "メリーゴーランド",
+      "artist": "MY FIRST STORY",
+      "has_synced": false,
+      "path": "select/08_メリーゴーランド_MY_FIRST_STORY.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "メリーゴーランド",
+      "artist": "KANA-BOON",
+      "has_synced": true,
+      "path": "select/09_メリーゴーランド_KANA-BOON.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "メリーゴーランド (Album Mix)",
+      "artist": "KANA-BOON",
+      "has_synced": true,
+      "path": "select/10_メリーゴーランド_(Album_Mix)_KANA-BOON.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "メリーゴーランド",
+      "artist": "Yuuri",
+      "has_synced": true,
+      "path": "select/11_メリーゴーランド_Yuuri.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "マダム・メリーゴーランド",
+      "artist": "mothy",
+      "has_synced": true,
+      "path": "select/12_マダム・メリーゴーランド_mothy.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "メリーゴーランド 〜www.jpopsingles.eu」",
+      "artist": "my first story",
+      "has_synced": false,
+      "path": "select/13_メリーゴーランド_〜www.jpopsingles.eu」_my_first_story.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "メリーゴーランド - merry-go-round",
+      "artist": "Yuuri",
+      "has_synced": true,
+      "path": "select/14_メリーゴーランド_-_merry-go-round_Yuuri.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "メリーゴーランド",
+      "artist": "雨宮天",
+      "has_synced": true,
+      "path": "select/15_メリーゴーランド_雨宮天.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "夕陽に別れを告げて ～メリーゴーランド",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/16_夕陽に別れを告げて_~メリーゴーランド_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "メリーゴーランド",
+      "artist": "HOME MADE 家族",
+      "has_synced": false,
+      "path": "select/17_メリーゴーランド_HOME_MADE_家族.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "メリーゴーランド",
+      "artist": "Yuuri",
+      "has_synced": false,
+      "path": "select/pl_01_メリーゴーランド_Yuuri.txt"
+    }
+  ]
+}
